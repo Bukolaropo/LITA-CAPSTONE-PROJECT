@@ -1,2 +1,2 @@
 # LITA-CAPSTONE-PROJECT
-This is where I documented my capstone project during the data analysis training with Incubator Hub
+## Sales Performance Analysis for LITA Retail Store
