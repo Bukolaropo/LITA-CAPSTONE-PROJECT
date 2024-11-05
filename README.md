@@ -45,6 +45,7 @@ GROUP BY Product
 EXEC sp_rename 'SalesData.TotalSales', 'Sales', 'COLUMN';
 
 ## Data Visualization
+![image](https://github.com/user-attachments/assets/2df4a4f1-c097-4cc9-915a-3cd2aba6d189)
 
 
 
