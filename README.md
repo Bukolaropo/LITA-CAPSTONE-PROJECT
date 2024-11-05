@@ -53,7 +53,9 @@ EXEC sp_rename 'SalesData.TotalSales', 'Sales', 'COLUMN';
 
 Total Sales per month	
 
-![image](https://github.com/user-attachments/assets/5f155f48-8d89-4073-acfe-87ea1577f00b)
+
+![image](https://github.com/user-attachments/assets/9fc73fa2-456d-44a2-a3e4-315ab8d167af)
+
 
 
 
