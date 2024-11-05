@@ -9,7 +9,10 @@ The data analysis aims to generate insight into the sales performance of the LIT
 The primary source of data used is Salesdata.csv tahat was provided by Incubator Hub.
 
 ## Tools Used
-- Microsoft Excel for data cleaning, analysis and visualisation
+- Microsoft Excel [download here] (https.//www.microsoft.com)
+  1. for data cleaning
+  2. for analysis and
+  3. for visualisation
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfoli Building
 
