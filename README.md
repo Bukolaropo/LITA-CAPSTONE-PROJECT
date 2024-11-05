@@ -16,4 +16,17 @@ The primary source of data used is Salesdata.csv tahat was provided by Incubator
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfoli Building
 
+## Exploratory Data Analysis
+This involves the exploring of the Data to answer some questions about such as;
+- What is the total quantity sold by product
+- What istotal quantity sold by region
+- What is total sales by product
+- What is total sales by region
+- What is montly sales
+- What is average sales by product
+- What is total revenue by region
+- Which products are top sellers
+
+## Data Analysis
+Here some basic lines of code or queries were used for analysis
 
