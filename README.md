@@ -48,13 +48,13 @@ EXEC sp_rename 'SalesData.TotalSales', 'Sales', 'COLUMN';
 
 ![image](https://github.com/user-attachments/assets/2df4a4f1-c097-4cc9-915a-3cd2aba6d189) 
 
-Row Labels	Sum of Sales
-East	 2,450,000.00 
-North	 1,950,000.00 
-South	 4,675,000.00 
-West	 1,512,500.00 
-Grand Total	 10,587,500.00 
+
 ![image](https://github.com/user-attachments/assets/86c6e96f-b8a8-447f-9aad-beb6fb767fba)
+
+Total Sales per month	
+
+![image](https://github.com/user-attachments/assets/5f155f48-8d89-4073-acfe-87ea1577f00b)
+
 
 
 
