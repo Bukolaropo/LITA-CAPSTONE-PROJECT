@@ -49,7 +49,10 @@ EXEC sp_rename 'SalesData.TotalSales', 'Sales', 'COLUMN';
 ![image](https://github.com/user-attachments/assets/2df4a4f1-c097-4cc9-915a-3cd2aba6d189) 
 
 
-![image](https://github.com/user-attachments/assets/86c6e96f-b8a8-447f-9aad-beb6fb767fba)
+Total Sales by Region	
+
+![image](https://github.com/user-attachments/assets/fac0dbdd-0c6f-4a7e-b147-ef9cd4e322e8)
+
 
 Total Sales per month	
 
